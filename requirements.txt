@@ -1,3 +1,4 @@
+papermill
 pandas
 numpy
 matplotlib

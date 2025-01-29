@@ -1,4 +1,0 @@
-papermill
-pandas
-numpy
-matplotlib
